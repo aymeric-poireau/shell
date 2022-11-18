@@ -1,0 +1,8 @@
+Comment ajouter des options à une commande ?
+on ajoute des options après l commande
+
+
+Quelles sont les deux syntaxes principales d’écriture des options pour une
+commande ?
+COMMANDE [OPTIONS] [ARGUMENTS]
+
